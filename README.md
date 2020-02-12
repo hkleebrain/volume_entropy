@@ -3,8 +3,8 @@
 Author: Hyekyoung Lee 
 Date: February 12, 2020 
 
-This is for the following oy example in the paper 
-H. Lee, et. al, 'Volume entropy for modeling information flow in a brain graph,' Scientific Reports, 2019 ([https://www.nature.com/articles/s41598-018-36339-7](https://www.nature.com/articles/s41598-018-36339-7)).
+This is based on a toy example in the paper 
+'Volume entropy for modeling information flow in a brain graph' (Lee, et. al, Scientific Reports, 2019 ([https://www.nature.com/articles/s41598-018-36339-7](https://www.nature.com/articles/s41598-018-36339-7))).
 
 
 ```Matlab
