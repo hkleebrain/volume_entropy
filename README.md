@@ -49,3 +49,9 @@ title('Information flow with efferent node capacity');
 ![network](https://user-images.githubusercontent.com/54297018/74328747-ce211680-4dd1-11ea-91a5-55aa7887c4b4.jpg)
 
 
+After performing 'volume_entropy.m', we obtain volume entropy 'h', edge capacity 'edge_capacity', and node capacity 'node_capacity'. 
+In the figure, the panel in upper left shows a given network of which distance matrix is 'L'. 
+The panel in upper right shows the edge capacity and node capacity of the network. 
+The more information flows, the thicker the edge and the larger the node. 
+The blue node is a node with more outgoing information than the incoming information, and the red node is the opposite. 
+In the panels in lower left and right, the size of node shows the amount of outgoing and incoming information in each node, respectively.  
