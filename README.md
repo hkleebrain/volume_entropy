@@ -46,6 +46,6 @@ draw_directed_graph(pts,edge_capacity,repmat([0 0 1],[p 1]),node_size);
 title('Information flow with efferent node capacity');  
 ```
 
-
+![network](https://user-images.githubusercontent.com/54297018/74328747-ce211680-4dd1-11ea-91a5-55aa7887c4b4.jpg)
 
 
